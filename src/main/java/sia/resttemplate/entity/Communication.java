@@ -15,7 +15,7 @@ public class Communication {
 
     private final RestTemplate restTemplate;
     private final HttpHeaders headers;
-    private String URL = "http://91.241.64.178:7081/api/users";
+    private String URL = "http://94.198.50.185:7081/api/users";
 
 
     @Autowired
